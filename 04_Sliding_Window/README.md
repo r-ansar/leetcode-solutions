@@ -1,17 +1,12 @@
-# [Topic Name] Problems
+# Sliding Window Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Sliding Window
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
-| Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
+| Contains Nearby Duplicates | 01_ContainsNearbyDuplicates.cpp | Easy | Use Sliding Window with Hash while checking nearby values |
 
-## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+## Links
+- https://leetcode.com/problems/contains-duplicate-ii?envType=problem-list-v2&envId=array

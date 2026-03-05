@@ -9,5 +9,6 @@
 | Two Sum | 01_TwoSum.cpp | Easy | use maps to find a certain result between two values |
 | Contains Duplicate | 02_ContainsDuplicate.cpp | Easy | use set to compare single values |
 
-## Optional
+## Links
 - https://leetcode.com/problems/two-sum?envType=problem-list-v2&envId=array
+- https://leetcode.com/problems/contains-duplicate?envType=problem-list-v2&envId=array
