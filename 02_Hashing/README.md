@@ -9,6 +9,7 @@
 | Two Sum | 01_TwoSum.cpp | Easy | use maps to find a certain result between two values |
 | Contains Duplicate | 02_ContainsDuplicate.cpp | Easy | use set to compare single values |
 | Valid Anagram | 03_ValidAnagram.cpp | Easy | array[26] for only lowercase letters |
+| Top K Frequent Elements | 04_TopKFrequentElements.cpp | Medium | Hash+Sort |
 
 ## Links
 - https://leetcode.com/problems/two-sum?envType=problem-list-v2&envId=array
