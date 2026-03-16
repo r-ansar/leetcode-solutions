@@ -1,17 +1,14 @@
-# [Topic Name] Problems
+# Binary Search Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Binary Search
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
-| Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
+| Find Minimum In Rotated Sorted Array | 01_FindMinimumInRotatedSortedArray.cpp | Medium | Binary Search |
+| Search In Rotated Sorted Array | 02_SearchInRotatedSortedArray.cpp | Medium | Binary Search |
 
 ## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array?envType=problem-list-v2&envId=array
+- https://leetcode.com/problems/search-in-rotated-sorted-array?envType=problem-list-v2&envId=array
