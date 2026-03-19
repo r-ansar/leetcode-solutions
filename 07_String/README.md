@@ -1,17 +1,12 @@
-# [Topic Name] Problems
+# String Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Encoding And Decoding
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
-| Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
+| Encoding And Decoding Strings | 01_EncodingAndDecodingStrings.cpp | Medium | finding the size |
 
-## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+## Links
+- https://neetcode.io/problems/string-encode-and-decode/question?list=blind75
