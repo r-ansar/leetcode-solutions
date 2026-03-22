@@ -1,17 +1,12 @@
-# [Topic Name] Problems
+# Stack Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Stack
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
-| Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
+| Valid Parenthese | 01_ValidParenthese.cpp | Easy | Stack |
 
 ## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+- https://neetcode.io/problems/validate-parentheses/question?list=blind75
