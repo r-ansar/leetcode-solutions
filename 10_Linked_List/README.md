@@ -1,17 +1,14 @@
-# [Topic Name] Problems
+# Linked List Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Linked List
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
-| Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
+| Reverse Linked List | 01_ReverseLinkedList.cpp | Easy | temp pointer |
+| Merge Sorted Linked Lists | 02_MergeSortedLinkedLists.cpp | Easy | Use Dummy |
 
 ## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+- https://neetcode.io/problems/reverse-a-linked-list/question?list=blind75
+- https://neetcode.io/problems/merge-two-sorted-linked-lists/question?list=blind75
