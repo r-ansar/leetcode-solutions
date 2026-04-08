@@ -9,6 +9,7 @@
 | Reverse Linked List | 01_ReverseLinkedList.cpp | Easy | temp pointer |
 | Merge Sorted Linked Lists | 02_MergeSortedLinkedLists.cpp | Easy | Use Dummy |
 | Linked List Cycle Detection | 03_LinkedListCycleDetection.cpp | Easy | Fast And Slow Pointers |
+| Reorder Linked List | 04_ReorderLinkedList.cpp | Medium | Reverse and Merge |
 
 ## Optional
 - https://neetcode.io/problems/reverse-a-linked-list/question?list=blind75
