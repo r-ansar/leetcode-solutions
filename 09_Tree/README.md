@@ -9,7 +9,7 @@
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
 | Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
+| Maximum Depth Of Binary Tree | 02_MaximumDepthOfBinaryTree.cpp | Easy | Basic Tree Problem |
 | Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
 
 ## Optional
