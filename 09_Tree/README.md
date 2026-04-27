@@ -1,17 +1,15 @@
-# [Topic Name] Problems
+# Tree Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Tree
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
+| Invert Binary Tree | 01_InvertBinaryTree.cpp | Easy | Basic Tree Problem |
 | Maximum Depth Of Binary Tree | 02_MaximumDepthOfBinaryTree.cpp | Easy | Basic Tree Problem |
 | Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
 
 ## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+- https://neetcode.io/problems/invert-a-binary-tree/question?list=blind75
+- https://neetcode.io/problems/depth-of-binary-tree/question?list=blind75
