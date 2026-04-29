@@ -11,7 +11,9 @@
 | Same Binary Tree | 03_SameBinaryTree.cpp | Easy | DFS |
 | Subtree of Another Tree | 04_SubtreeofAnotherTree.cpp | Easy | DFS |
 | Diameter Of Binary Tree | 05_DiameterOfBinaryTree.cpp | Easy | DFS |
-
+| Lowest Common Ancestor in Binary Search Tree
+ | 06_LowestCommonAncestorinBinarySearchTree
+.cpp | Medium | DFS |
 | Binary Tree Level Order Traversal | 07_BinaryTreeLevelOrderTraversal.cpp | Medium | BFS |
 
 ## Optional
