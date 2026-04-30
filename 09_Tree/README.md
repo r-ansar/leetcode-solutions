@@ -16,6 +16,7 @@
 .cpp | Medium | DFS |
 | Binary Tree Level Order Traversal | 07_BinaryTreeLevelOrderTraversal.cpp | Medium | BFS |
 | Valid Binary Search Tree | 08_ValidBinarySearchTree.cpp | Medium | DFS |
+| Kth Smallest Integer in BST | 09_KthSmallestIntegerinBST.cpp | Medium | DFS/inorder |
 
 ## Optional
 - https://neetcode.io/problems/invert-a-binary-tree/question?list=blind75
