@@ -15,6 +15,7 @@
  | 06_LowestCommonAncestorinBinarySearchTree
 .cpp | Medium | DFS |
 | Binary Tree Level Order Traversal | 07_BinaryTreeLevelOrderTraversal.cpp | Medium | BFS |
+| Valid Binary Search Tree | 08_ValidBinarySearchTree.cpp | Medium | DFS |
 
 ## Optional
 - https://neetcode.io/problems/invert-a-binary-tree/question?list=blind75
@@ -23,3 +24,4 @@
 - https://neetcode.io/problems/level-order-traversal-of-binary-tree/question?list=blind75
 - https://neetcode.io/problems/binary-tree-diameter/question?list=neetcode250
 - https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=blind75
+- https://neetcode.io/problems/valid-binary-search-tree/question?list=blind75
