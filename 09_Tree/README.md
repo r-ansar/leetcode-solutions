@@ -17,6 +17,8 @@
 | Binary Tree Level Order Traversal | 07_BinaryTreeLevelOrderTraversal.cpp | Medium | BFS |
 | Valid Binary Search Tree | 08_ValidBinarySearchTree.cpp | Medium | DFS |
 | Kth Smallest Integer in BST | 09_KthSmallestIntegerinBST.cpp | Medium | DFS/inorder |
+| Construct Binary Tree from Preorder and Inorder Traversal
+ | 10_ConstructBinaryTreefromPreorderandInorderTraversal.cpp | Medium | DFS |
 
 ## Optional
 - https://neetcode.io/problems/invert-a-binary-tree/question?list=blind75
@@ -26,3 +28,4 @@
 - https://neetcode.io/problems/binary-tree-diameter/question?list=neetcode250
 - https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=blind75
 - https://neetcode.io/problems/valid-binary-search-tree/question?list=blind75
+- https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question?list=blind75
