@@ -21,6 +21,8 @@
  | 10_ConstructBinaryTreefromPreorderandInorderTraversal.cpp | Medium | DFS |
 | Binary Tree Maximum Path Sum
  | 11_BinaryTreeMaximumPathSum.cpp | Hard | DFS and see if the current node + left and right or the node + left or right is max |
+ | Serialize and Deserialize Binary Tree | 12_SerializeandDeserializeBinaryTree.cpp | Hard | DFS approach|
+
 
 ## Optional
 - https://neetcode.io/problems/invert-a-binary-tree/question?list=blind75
@@ -32,3 +34,4 @@
 - https://neetcode.io/problems/valid-binary-search-tree/question?list=blind75
 - https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question?list=blind75
 - https://neetcode.io/problems/binary-tree-maximum-path-sum/question?list=blind75
+- https://neetcode.io/problems/serialize-and-deserialize-binary-tree/question?list=blind75
