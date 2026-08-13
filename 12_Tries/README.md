@@ -7,6 +7,8 @@
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
 | Implement Trie Prefix Tree | 01_ImplementTriePrefixTree.cpp | Medium | Trie |
+| Design Add and Search Word Data Structure | 02_DesignAddandSearchWordDataStructure.cpp | Medium | dfs |
 
 ## Optional
 - https://neetcode.io/problems/implement-prefix-tree/question?list=blind75
+- https://neetcode.io/problems/design-word-search-data-structure/question?list=blind75
