@@ -1,17 +1,12 @@
-# [Topic Name] Problems
+# Graph Problems
 
 ## Concepts Covered
-- Concept 1
-- Concept 2
-- Concept 3
+- Graph
 
 ## Problems
 | Problem Name | File | Difficulty | Notes |
 |-------------|------|------------|-------|
-| Problem 1 | 01_Problem1.cpp | Easy | Short note about approach |
-| Problem 2 | 02_Problem2.cpp | Medium | Short note about approach |
-| Problem 3 | 03_Problem3.cpp | Hard | Short note about approach |
+| Number of Islands | 01_NumberofIslands.cpp | Medium | Graph |
 
 ## Optional
-- Add links to LeetCode problems
-- Add tips / common patterns
+- https://neetcode.io/problems/count-number-of-islands/question?list=blind75
